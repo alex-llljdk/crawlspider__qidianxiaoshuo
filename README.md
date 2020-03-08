@@ -1,2 +1,2 @@
 # crawlspider__qidianxiaoshuo
-爬取起点小说网全部小说 crawlspider
+爬取盗版小说网全部小说 crawlspider
